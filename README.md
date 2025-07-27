@@ -9,7 +9,7 @@ This is a Python-based simulation of a smart traffic signal system at a four-way
 
 #### 📸 Demo
 
-![Simulation Screenshot](images/demo.png) <!-- Add a screenshot if you have one -->
+![Simulation Screenshot](https://github.com/Akshitha0621/Smart-Traffic-management/blob/eca7da95b974a0598872a6f6a5275480888e7b6f/images/intersection.jpg) <!-- Add a screenshot if you have one -->
 
 ---
 
