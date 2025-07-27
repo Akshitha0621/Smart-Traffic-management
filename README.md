@@ -100,7 +100,7 @@ traffic-signal-simulation/
 
 ---
 
-####### 🛠️ Requirements
+###### 🛠️ Requirements
 
 - Python 3.7+
 - Pygame
@@ -109,7 +109,7 @@ traffic-signal-simulation/
 ---
 
 
-######## ⚙️ How It Works
+⚙️ How It Works
 
 - Vehicles are generated randomly in different lanes and directions.
 
