@@ -145,5 +145,5 @@ Traffic light color transitions
 
 ##### LICENSE
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Akshitha0621/Smart-Traffic-management/blob/18a408a57d8a62de5a6c7154567d5b51dad4d967/LICENSE).
 
