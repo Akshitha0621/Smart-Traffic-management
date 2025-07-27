@@ -143,3 +143,7 @@ Traffic light color transitions
 
 - Countdown timers and vehicle counts
 
+##### LICENSE
+
+This project is licensed under the [MIT License](LICENSE).
+
