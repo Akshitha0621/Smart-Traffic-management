@@ -129,3 +129,17 @@ traffic-signal-simulation/
 - Yellow: 5 sec
   
 - Adaptive green time is calculated based on the number of vehicles waiting.
+
+---
+#### 📈 Output
+
+- Console shows real-time updates of signal status.
+
+- Pygame window shows:
+
+- Vehicles moving through the intersection
+
+Traffic light color transitions
+
+- Countdown timers and vehicle counts
+
