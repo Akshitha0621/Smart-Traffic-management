@@ -14,4 +14,40 @@ This is a Python-based simulation of a smart traffic signal system at a four-way
 ---
 
 ##### 📁 Project Structure
+traffic-signal-simulation/
+├── simulation.py                # Main simulation code
+├── README.md                    # Project documentation
+├── requirements.txt             # Python dependencies
+├── images/                      # All image assets
+│   ├── mod_int.png              # Background image (intersection layout)
+│   ├── signals/                 # Traffic light icons
+│   │   ├── red.png
+│   │   ├── yellow.png
+│   │   └── green.png
+│   ├── right/                   # Vehicles moving right
+│   │   ├── car.png
+│   │   ├── bus.png
+│   │   ├── truck.png
+│   │   ├── bike.png
+│   │   └── rickshaw.png
+│   ├── left/                    # Vehicles moving left
+│   │   ├── car.png
+│   │   ├── bus.png
+│   │   ├── truck.png
+│   │   ├── bike.png
+│   │   └── rickshaw.png
+│   ├── up/                      # Vehicles moving up
+│   │   ├── car.png
+│   │   ├── bus.png
+│   │   ├── truck.png
+│   │   ├── bike.png
+│   │   └── rickshaw.png
+│   └── down/                    # Vehicles moving down
+│       ├── car.png
+│       ├── bus.png
+│       ├── truck.png
+│       ├── bike.png
+│       └── rickshaw.png
+└── demo/
+    └── demo.png                 # (Optional) Screenshot or GIF of simulation
 
