@@ -109,7 +109,7 @@ traffic-signal-simulation/
 ---
 
 
-########⚙️ How It Works
+######## ⚙️ How It Works
 
 - Vehicles are generated randomly in different lanes and directions.
 
