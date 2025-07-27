@@ -87,3 +87,26 @@ traffic-signal-simulation/
     └── demo.png     
    
 
+---
+
+## 🚀 Features
+
+- Simulates traffic from 4 directions: up, down, left, right
+- Supports 5 vehicle types: car, bus, truck, rickshaw, bike
+- Vehicles can turn at intersections
+- Adaptive green light timing based on vehicle count
+- Real-time visualization using Pygame
+- Signal countdown and vehicle pass count display
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.7+
+- Pygame
+
+### Install Pygame
+
+```bash
+pip install pygame
+
