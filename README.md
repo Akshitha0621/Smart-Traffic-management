@@ -109,8 +109,9 @@ traffic-signal-simulation/
 
 ```bash
 pip install pygame
-
+---
 #########⚙️ How It Works
+
 Vehicles are generated randomly in different lanes and directions.
 
 The green signal is dynamically assigned based on a weighted count of vehicle types.
