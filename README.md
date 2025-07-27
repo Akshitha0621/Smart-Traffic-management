@@ -143,7 +143,14 @@ Traffic light color transitions
 
 - Countdown timers and vehicle counts
 
+---
+
 ##### LICENSE
 
 This project is licensed under the [MIT License](https://github.com/Akshitha0621/Smart-Traffic-management/blob/18a408a57d8a62de5a6c7154567d5b51dad4d967/LICENSE).
 
+---
+
+###### Author
+![Author](https://github.com/Akshitha0621)
+Developed during a hackathon with **Team Inovision**.
