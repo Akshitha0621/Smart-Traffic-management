@@ -109,7 +109,7 @@ traffic-signal-simulation/
 ---
 
 
-⚙️ How It Works
+#### ⚙️ How It Works
 
 - Vehicles are generated randomly in different lanes and directions.
 
@@ -118,3 +118,14 @@ traffic-signal-simulation/
 - Vehicles move, stop at signals, and turn when needed.
 
 - The simulation displays the traffic flow in real-time.
+
+---
+##### ⚙️ Traffic Signal Logic
+
+- Default Red: 150 sec
+
+- Green: 20 sec (adaptive)
+  
+- Yellow: 5 sec
+  
+- Adaptive green time is calculated based on the number of vehicles waiting.
