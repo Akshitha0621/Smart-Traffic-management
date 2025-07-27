@@ -152,5 +152,7 @@ This project is licensed under the [MIT License](https://github.com/Akshitha0621
 ---
 
 ###### Author
+
 ![Author](https://github.com/Akshitha0621)
+
 Developed during a hackathon with **Team Inovision**.
