@@ -5,6 +5,7 @@
 
 This is a Python-based simulation of a smart traffic signal system at a four-way intersection. It adjusts the green signal time dynamically based on vehicle density to optimize traffic flow.
 
+
 ---
 
 #### 📸 Demo
